@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/myPlan"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:title="MyPlan"
+        app:showAsAction="ifRoom"
+        />
+
+    <item android:title="Song"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_baseline_library_music_24">
+
+        <menu>
+            <item android:title="Play"
+                app:showAsAction="ifRoom"
+                android:id="@+id/playBtn" />
+            <item android:title="Pause"
+                app:showAsAction="ifRoom"
+                android:id="@+id/pauseBtn"/>
+        </menu>
+    </item>
+
+</menu>
