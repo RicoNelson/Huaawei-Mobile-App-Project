@@ -65,7 +65,7 @@ public class MainActivity extends AppCompatActivity {
                     mHwAudioPlayerManager.playList(getLocalPlayItemList(), 0, 0);
 
                 } catch (Exception e) {
-                    Toast.makeText( MainActivity.this,"masuk line 67", Toast.LENGTH_SHORT).show();
+
                 }
             }
 
@@ -79,7 +79,9 @@ public class MainActivity extends AppCompatActivity {
 
     public List<HwAudioPlayItem> getLocalPlayItemList() {
         // Set the local audio path.
-        String path = "raw/lagu_untuk_huawei.mp3";
+
+        String path = "hms_res://lagu_untuk_huawei";
+
         // Create an audio object and write audio information into the object.
         HwAudioPlayItem item = new HwAudioPlayItem();
         // Set the audio title.
@@ -98,12 +100,12 @@ public class MainActivity extends AppCompatActivity {
         if (mHwAudioPlayerManager != null) {
             // Play songs on a local playlist.
             mHwAudioPlayerManager.play();
-            Toast.makeText( MainActivity.this,"play the music", Toast.LENGTH_SHORT).show();
+            Toast.makeText( MainActivity.this,"play music " + mHwAudioPlayerManager.getDuration(), Toast.LENGTH_SHORT).show();
         }
     }
 
     public void pause() {
-        Toast.makeText( MainActivity.this,"pause", Toast.LENGTH_SHORT).show();
+        Toast.makeText( MainActivity.this,"paused at" , Toast.LENGTH_SHORT).show();
         if (mHwAudioPlayerManager == null) {
             Toast.makeText( MainActivity.this,"pause err", Toast.LENGTH_SHORT).show();
             return;
