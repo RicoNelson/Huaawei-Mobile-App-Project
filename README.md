@@ -6,7 +6,6 @@ Stupa App is a planner application that aids planning activities around Jabodeta
 This is an assignment project for: MOBI6059001 - Mobile Programming LG01.<br>
 Lecturer: Dwinanda Kinanti Suci Sekarhati, S.Kom, M.T.I.<br>
 
-<br>
 Creator:<br>
 2301905373 - Rico Nelson<br>
 2301942210 - Elizabeth Ann Soelistio<br>
