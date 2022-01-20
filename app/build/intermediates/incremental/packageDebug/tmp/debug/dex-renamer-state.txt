@@ -1,0 +1,16 @@
+#Wed Jan 19 20:16:43 ICT 2022
+path.4=classes2.dex
+path.3=13/classes.dex
+path.2=11/classes.dex
+path.1=0/classes.dex
+path.0=classes.dex
+base.4=D\:\\Desktop\\Learning\\Materi dan Tugas BINUS\\SMT 5\\Mobile Programming\\Project\\Stupa\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
+base.3=D\:\\Desktop\\Learning\\Materi dan Tugas BINUS\\SMT 5\\Mobile Programming\\Project\\Stupa\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\13\\classes.dex
+base.2=D\:\\Desktop\\Learning\\Materi dan Tugas BINUS\\SMT 5\\Mobile Programming\\Project\\Stupa\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\11\\classes.dex
+base.1=D\:\\Desktop\\Learning\\Materi dan Tugas BINUS\\SMT 5\\Mobile Programming\\Project\\Stupa\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.0=D\:\\Desktop\\Learning\\Materi dan Tugas BINUS\\SMT 5\\Mobile Programming\\Project\\Stupa\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+renamed.4=classes5.dex

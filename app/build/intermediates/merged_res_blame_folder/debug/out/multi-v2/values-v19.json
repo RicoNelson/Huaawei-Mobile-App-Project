@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Desktop\\Learning\\Materi dan Tugas BINUS\\SMT 5\\Mobile Programming\\Project\\Stupa\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v19\\values-v19.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ASUS\\.gradle\\caches\\transforms-3\\e63f9a79ebbcb61c207e18d188ee94bc\\transformed\\jetified-ads-core-3.4.50.300\\res\\values-v19\\values-v19.xml",
+                    "from": {
+                        "startLines": "2,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,230",
+                        "endLines": "4,5",
+                        "endColumns": "12,118",
+                        "endOffsets": "225,344"
+                    }
+                }
+            ]
+        }
+    ]
+}
