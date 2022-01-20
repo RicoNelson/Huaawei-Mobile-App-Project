@@ -100,7 +100,7 @@ public class MainActivity extends AppCompatActivity {
         if (mHwAudioPlayerManager != null) {
             // Play songs on a local playlist.
             mHwAudioPlayerManager.play();
-            Toast.makeText( MainActivity.this,"play music " + mHwAudioPlayerManager.getDuration(), Toast.LENGTH_SHORT).show();
+            Toast.makeText( MainActivity.this,"play music", Toast.LENGTH_SHORT).show();
         }
     }
 
